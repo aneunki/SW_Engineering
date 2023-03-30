@@ -1,3 +1,2 @@
-print("Hello~")
-
-print("I'm User 1")
+print("Hello World!")
+print("I am User")
